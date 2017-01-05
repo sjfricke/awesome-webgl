@@ -1,6 +1,6 @@
 # WebGL Libraries
 
-Libraries/Frameworks all have one goal: **Use abstraction to allow you to spend more time developing your application**
+Libraries/Frameworks all have one goal: **Use abstraction to allow you to spend more time developing the features of your application**
 
 With this, we are not here to judge or say which library is "better" as that is not a feasible question to answer. So what we **can** offer is a chart to show you what each library has to offer in terms of things it will help abstracts for you
 
@@ -8,16 +8,17 @@ With this, we are not here to judge or say which library is "better" as that is 
 >
 > **/** -> Can be supported with 3rd-party library
 
-| Libraries               |[2D](#2d)   |[Animation](#animation)|[Audio](#audio)|[Exporting](#exporting)|[Importing](#importing)|[Modeling](#modeling)|[Point Cloud](#point-cloud)|[Physics](#physics)|[Rendering](#rendering)|[Shaders](#shaders)|[Texturing](#texturing)|[WebVR](#webvr)|
- ------------------------ |:----------:|:---------------------:|:-------------:|:---------------------:|:---------------------:|:-------------------:|:-------------------------:|:-----------------:|:---------------------:|:-----------------:|:---------------------:|:-------------:|
-| A-Frame                 |            |                       |               |                       |                       |                     |                           |                   |                       |                   |                       |               |
-| BabylonJS               |            |                       |               |                       |                       |                     |                           |                   |                       |                   |                       |               |
-| Blend4Web               |            |                       |               |                       |                       |                     |                           |                   |                       |                   |                       |               |
-| CooperLicht             |            |                       |               |                       |                       |                     |                           |                   |                       |                   |                       |               |
-| Goo Engine              |            |                       |               |                       |                       |                     |                           |                   |                       |                   |                       |               |
-| PlayCanvas              |            |                       |               |                       |                       |                     |                           |                   |                       |                   |                       |               |
-| ThreeJS                 |            |**X**                  |**X**          |                       |**X**                  |                     |                           |**/**              |**X**                  |**X**              |**X**                  |**/**          |
-| VoxelJS                 |            |                       |               |                       |                       |                     |                           |                   |                       |                   |                       |               |
+| Libraries               |[2D](#2d)   |[Animation](#animation)|[Audio](#audio)|[Exporting](#exporting)|[Importing](#importing)|[Math](#math)|[Modeling](#modeling)|[Point Cloud](#point-cloud)|[Physics](#physics)|[Rendering](#rendering)|[Shaders](#shaders)|[Texturing](#texturing)|[WebVR](#webvr)|
+ ------------------------ |:----------:|:---------------------:|:-------------:|:---------------------:|:---------------------:|:-----------:|:-------------------:|:-------------------------:|:-----------------:|:---------------------:|:-----------------:|:---------------------:|:-------------:|
+| A-Frame                 |            |                       |               |                       |                       |             |                     |                           |                   |                       |                   |                       |               |
+| BabylonJS               |            |                       |               |                       |                       |             |                     |                           |                   |                       |                   |                       |               |
+| Blend4Web               |            |                       |               |                       |                       |             |                     |                           |                   |                       |                   |                       |               |
+| CooperLicht             |            |                       |               |                       |                       |             |                     |                           |                   |                       |                   |                       |               |
+| Goo Engine              |            |                       |               |                       |                       |             |                     |                           |                   |                       |                   |                       |               |
+| PlayCanvas              |            |                       |               |                       |                       |             |                     |                           |                   |                       |                   |                       |               |
+| ThreeJS                 |            |**X**                  |**X**          |                       |**X**                  |             |**X**                |                           |**/**              |**X**                  |**X**              |**X**                  |**/**          |
+| TWGL                    |            |                       |               |                       |                       |**X**        |                     |                           |                   |                       |                   |                       |               |
+| VoxelJS                 |            |                       |               |                       |                       |             |                     |                           |                   |                       |                   |                       |               |
 
 
 ## Column Key
@@ -36,6 +37,9 @@ With this, we are not here to judge or say which library is "better" as that is 
   
 ### Importing
   - Supports importing of 3D models and/or images
+  
+### Math
+  - Supports with all the fun matrix and vector math
   
 ### Modeling
   - Supports modeling 3D objects
