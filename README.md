@@ -1,21 +1,21 @@
 # Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome WebGL libraries, resources and much more. 
+A curated list of awesome WebGL libraries, resources and much more.
 
 ## What is WebGL
 
-WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D computer graphics and 2D graphics within 
+WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D computer graphics and 2D graphics within
 any compatible web browser without the use of plug-ins. WebGL is integrated completely into all the web standards
 of the browser allowing GPU accelerated usage of physics and image processing and effects as part of the web page canvas.
 
-WebGL elements can be mixed with other HTML elements and composited with other parts of the page or page background. 
-WebGL programs consist of control code written in JavaScript and shader code that is executed on a computer's Graphics 
+WebGL elements can be mixed with other HTML elements and composited with other parts of the page or page background.
+WebGL programs consist of control code written in JavaScript and shader code that is executed on a computer's Graphics
 Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and maintained by the non-profit [Khronos Group](https://www.khronos.org/).
 
 ## Table of Contents (TOC)
-* [WebGL](#WebGL)
-* [WebGL 2](#WebGL-2)
-* [Libraries/Frameworks](#Libraries/Frameworks)
+* [WebGL](#webgl)
+* [WebGL 2](#webGL-2)
+* [Libraries/Frameworks](#librariesframeworks)
 
 ## WebGL
 
@@ -28,7 +28,9 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [GLSL Editors](#glsl-editors)
 * [References](#references)
 * [Talks](#talks)
-* [Tools/Debugging](#debug)
+* [Tools/Debugging](#toolsdebugging)
+  * [Chrome Specific Tools/Debugger](#chrome-specific-toolsdebugger)
+  * [Firefox Specific Tools/Debugger](#firefox-specific-toolsdebugger)
 * [Tutorials](#tutorials)
 * [Videos](#videos)
 
@@ -50,17 +52,17 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 > Popular books about WebGL
 
-* [WebGL Insights](https://www.amazon.com/dp/1498716075) by **by Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators. 
+* [WebGL Insights](https://www.amazon.com/dp/1498716075) by **by Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.
   * [Book's Personal Site](http://www.webglinsights.com/)
-* [Interactive Computer Graphics: A Top-Down Approach with WebGL](https://www.amazon.com/dp/0133574849) by **by Edward Angel** and **Dave Shreiner** - Suitable for undergraduate students in computer science and engineering, for students in other disciplines who have good programming skills, and for professionals interested in computer animation and graphics using the latest version of WebGL. 
+* [Interactive Computer Graphics: A Top-Down Approach with WebGL](https://www.amazon.com/dp/0133574849) by **by Edward Angel** and **Dave Shreiner** - Suitable for undergraduate students in computer science and engineering, for students in other disciplines who have good programming skills, and for professionals interested in computer animation and graphics using the latest version of WebGL.
 * [Programming 3D Applications with HTML5 and WebGL](https://www.amazon.com/dp/1449362966) by **by Tony Parisi** - Create high-performance, visually stunning 3D applications for the Web, using HTML5 and related technologies such as CSS3 and WebGL—the emerging web graphics standard.
 * [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL](https://www.amazon.com/dp/0321902920) by **by Kouichi Matsuda** and **Rodger Lea** - WebGL Programming Guide will help you get started quickly with interactive WebGL 3D programming, even if you have no prior knowledge of HTML5, JavaScript, 3D graphics, mathematics, or OpenGL.
-  
+
 ### GLSL Editors
 
 > Online GLSL Editors
 >
-> NOTE: [WebGL must conform to The OpenGL ES Shading Language, Version 1.00](https://www.khronos.org/registry/webgl/specs/1.0/#4.3) 
+> NOTE: [WebGL must conform to The OpenGL ES Shading Language, Version 1.00](https://www.khronos.org/registry/webgl/specs/1.0/#4.3)
 > 
 > [Offical Specs for GLSL Version 1.00](https://www.khronos.org/registry/gles/specs/2.0/GLSL_ES_Specification_1.0.17.pdf)
 
@@ -68,13 +70,13 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [GLSLbin](http://glslb.in) - A fragment shader sandbox supporting [glslify](https://github.com/stackgl/glslify).
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
-* [ShaderFrog](http://shaderfrog.com/) - WebGL Shader Editor and Composer.	
+* [ShaderFrog](http://shaderfrog.com/) - WebGL Shader Editor and Composer.
 
 ### References
 
 > WebGL references
 
-* [Khronos Offical Wiki](https://www.khronos.org/webgl/wiki/) - The offical wiki for WebGL.
+* [Khronos Offical Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebGL Spec Sheet](https://www.khronos.org/registry/webgl/specs/1.0/) - All the detailed information about WebGL.
 * [WebVR Community Group](https://www.w3.org/community/webvr/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
 
@@ -119,17 +121,17 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 > WebGL Related Videos
 
-* (An Introduction to WebGL Programming)[https://www.youtube.com/watch?v=tgVLb6fOVVc&feature=youtu.be] - A 3 hour overview of WebGL by SIGGRAPH University.
+* [An Introduction to WebGL Programming](https://www.youtube.com/watch?v=tgVLb6fOVVc&feature=youtu.be) - A 3 hour overview of WebGL by SIGGRAPH University.
 
 ## WebGL 2
 
 > Information about the upcoming WebGL 2 specs
 >
-> Anything pretaining to WebGL in general is found in the [WebGL](#WebGL) section
+> Anything pertaining to WebGL in general is found in the [WebGL](#WebGL) section
 
 ### WebGL 2 sub-categories
-* [Articles](#articles)
-* [References](#references)
+* [Articles](#articles-1)
+* [References](#references-1)
 
 ### Articles
 
@@ -147,21 +149,35 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 ## Libraries/Frameworks
 
-> [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/blob/master/Libraries.md)
+> [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries)
 
 ### Math
-*[Sylvester](http://sylvester.jcoglan.com/) - Sylvester is a vector, matrix and geometry library for JavaScript.
-*[TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
+* [Sylvester](http://sylvester.jcoglan.com/) - Sylvester is a vector, matrix and geometry library for JavaScript.
+* [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
 
 ### Others
-*[A-Frame](https://aframe.io/) - A web framework for building virtual reality experiences.
-*[Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
-*[Babylon.js](http://www.babylonjs.com/) - A complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
-*[CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
-*[Cesium](http://cesiumjs.org/) - An open-source library for world-class 3D globes and maps.
-*[Deck.gl](https://uber.github.io/deck.gl/) - A WebGL overlay suite for React providing a set of highly performant data visualization overlays.
-*[GLGE](http://www.glge.org/) - A javascript library intended to ease the use of WebGL.
-*[OSG.js](http://osgjs.org/) - A WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
-*[Scene.js](http://scenejs.org/) - An extensible WebGL-based engine for high-detail 3D visualisation.
-*[Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
-*[Whitestorm.js](https://whsjs.io/) - Framework for developing 3D web apps with physics.
+* [A-Frame](https://aframe.io/) - A web framework for building virtual reality experiences.
+* [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Babylon.js](http://www.babylonjs.com/) - A complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
+* [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
+* [Cesium](http://cesiumjs.org/) - An open-source library for world-class 3D globes and maps.
+* [Deck.gl](https://uber.github.io/deck.gl/) - A WebGL overlay suite for React providing a set of highly performant data visualization overlays.
+* [GLGE](http://www.glge.org/) - A javascript library intended to ease the use of WebGL.
+* [OSG.js](http://osgjs.org/) - A WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
+* [Scene.js](http://scenejs.org/) - An extensible WebGL-based engine for high-detail 3D visualisation.
+* [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
+* [Whitestorm.js](https://whsjs.io/) - Framework for developing 3D web apps with physics.
+
+## Related lists
+
+> Similar awesome lists
+
+* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
+* [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
+* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development.
+* [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
+
+## Contributing
+Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) for details.
