@@ -4,23 +4,23 @@ Please ensure your pull request adheres to the following guidelines:
 
 > If you forget any of these I will nicly ask you to change it in the pull request.
 
-# Updating the [README.md](https://github.com/sjfricke/awesome-webgl/blob/master/README.md)
+# Updating [README.md](https://github.com/sjfricke/awesome-webgl/blob/master/README.md)
 
 - Make an individual pull request for each suggestion.
 - You can either add a link or new categories, or improvements... all are welcome.
-  - If you have other ideas please leave issue.
-- Use the following format: [NAME](LINK) - DESCRIPTION.
+  - If you have other ideas for discussion please leave an issue.
+- Use the following format: \[NAME\]\(LINK\) - DESCRIPTION.
   - Keep descriptions simple.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
 - Make pull request titles descriptive i.e. not `Updated README`.
 - Link additions should be added to the bottom of the relevant category.
-- New libraries are placed in alphabetical order.
+- New entires for the libraries/frameworks section are placed in alphabetical order.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - End all descriptions with a period.
 
-# Updating the [Libraries.md](https://github.com/sjfricke/awesome-webgl/blob/master/Libraries.md)
+# Updating [Libraries.md](https://github.com/sjfricke/awesome-webgl/blob/master/Libraries.md)
 
 - Always keep lines aligned vertically to make it easier to edit.
 - Feel free to edit/add in the Column Key.
