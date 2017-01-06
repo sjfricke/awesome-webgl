@@ -112,6 +112,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 > Online WebGL Tutorials
 
+* [Getting started with WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL) - Mozilla Foundation guide to getting started with WebGL.
 * [WebGL Fundamentals](http://webglfundamentals.org/) - A series of online tutorials with code samples and live demonstrations.
 * [WebGL Academy](http://www.webglacademy.com/) - A simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 * [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of _WebGL Up and Running_.
