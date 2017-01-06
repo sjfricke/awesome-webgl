@@ -22,6 +22,8 @@ Please ensure your pull request adheres to the following guidelines:
 
 # Updating [Libraries.md](https://github.com/sjfricke/awesome-webgl/blob/master/Libraries.md)
 
+> NOTE: Just because the library isn't in the README.md file doesn't mean it can't be in the Libraries.md file
+
 - Always keep lines aligned vertically to make it easier to edit.
 - Feel free to edit/add in the Column Key.
 - If adding or removing a mark from the table please acknowledge why you made that desicion in your pull request description.
