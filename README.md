@@ -167,6 +167,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [Deck.gl](https://uber.github.io/deck.gl/) - A WebGL overlay suite for React providing a set of highly performant data visualization overlays.
 * [GLGE](http://www.glge.org/) - A javascript library intended to ease the use of WebGL.
 * [OSG.js](http://osgjs.org/) - A WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
+* [Phaser](http://phaser.io/) - 2D game framework for making HTML5 games, supports mobile web browsers, Canvas and WebGL rendering.
 * [Scene.js](http://scenejs.org/) - An extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
 * [Whitestorm.js](https://whsjs.io/) - Framework for developing 3D web apps with physics.
