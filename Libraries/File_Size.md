@@ -10,6 +10,7 @@ Sometimes load time is a factor in picking a library so here is a list of the di
 |[CopperLicht](http://www.ambiera.com/copperlicht/index.html)             |1.12          |Only Minified         |0.380                  |                                              |
 |[Cesium](http://cesiumjs.org/)                                           |1.29          |7.05                  |1.87                   |                                              |
 |[GLGE](http://www.glge.org/)                                             |0.9           |0.719                 |0.358                  |                                              |
+|[glMatrix](http://glmatrix.net/)                                         |2.3.2         |0.180                 |0.052                  |                                              |
 |[Scene.js](http://scenejs.org/)                                          |4.2.0         |0.549                 |0.235                  |                                              |
 |[Three.js](https://threejs.org/)                                         |83            |0.978                 |0.479                  |                                              |
 |[Sylvester](http://sylvester.jcoglan.com/)                               |0.1.3         |0.043                 |0.013                  |                                              |
