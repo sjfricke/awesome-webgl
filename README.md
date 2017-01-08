@@ -157,6 +157,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 ### Math
 * [Sylvester](http://sylvester.jcoglan.com/) - Sylvester is a vector, matrix and geometry library for JavaScript.
 * [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
+* [glMatrix](http://glmatrix.net/) - Javascript matrix and vector library for high performance WebGL apps.
 
 ### Others
 * [A-Frame](https://aframe.io/) - A web framework for building virtual reality experiences.
