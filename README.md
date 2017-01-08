@@ -14,7 +14,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 ## Table of Contents (TOC)
 * [WebGL](#webgl)
-* [WebGL 2](#webGL-2)
+* [WebGL 2](#webgl-2)
 * [Libraries/Frameworks](#librariesframeworks)
 
 ## WebGL
@@ -56,6 +56,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
   * [Book's Personal Site](http://www.webglinsights.com/)
 * [Interactive Computer Graphics: A Top-Down Approach with WebGL](https://www.amazon.com/dp/0133574849) by **by Edward Angel** and **Dave Shreiner** - Suitable for undergraduate students in computer science and engineering, for students in other disciplines who have good programming skills, and for professionals interested in computer animation and graphics using the latest version of WebGL.
 * [Programming 3D Applications with HTML5 and WebGL](https://www.amazon.com/dp/1449362966) by **by Tony Parisi** - Create high-performance, visually stunning 3D applications for the Web, using HTML5 and related technologies such as CSS3 and WebGL—the emerging web graphics standard.
+  * [First two chapters online](http://chimera.labs.oreilly.com/books/1234000000802/ch01.html)
 * [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL](https://www.amazon.com/dp/0321902920) by **by Kouichi Matsuda** and **Rodger Lea** - WebGL Programming Guide will help you get started quickly with interactive WebGL 3D programming, even if you have no prior knowledge of HTML5, JavaScript, 3D graphics, mathematics, or OpenGL.
 
 ### GLSL Editors
@@ -117,6 +118,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [WebGL Academy](http://www.webglacademy.com/) - A simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 * [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of _WebGL Up and Running_.
 * [Get Started Tutorial](https://www.khronos.org/webgl/wiki/Tutorial) - Khronos' tutorial how to get up and running with WebGL.
+* [Learn WebGL](https://www.tutorialspoint.com/webgl/index.htm) - Tutorials Point set of article to get you familiar with WebGL terms.
 
 ### Videos
 
