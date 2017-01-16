@@ -108,7 +108,6 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [Canvas Debugger](https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/) - A quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
 * [Shader Editor](https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/) - A quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
 
-
 ### Tutorials
 
 > Online WebGL Tutorials
@@ -119,7 +118,6 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of _WebGL Up and Running_.
 * [Get Started Tutorial](https://www.khronos.org/webgl/wiki/Tutorial) - Khronos' tutorial how to get up and running with WebGL.
 * [Learn WebGL](https://www.tutorialspoint.com/webgl/index.htm) - Tutorials Point set of article to get you familiar with WebGL terms.
-
 
 ### Videos
 
