@@ -124,7 +124,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 > WebGL Related Videos
 
 * [An Introduction to WebGL Programming](https://www.youtube.com/watch?v=tgVLb6fOVVc&feature=youtu.be) - A 3 hour overview of WebGL by SIGGRAPH University.
-* [WebGL Tutorials - YouTube](https://www.youtube.com/playlist?list=PLjcVFFANLS5zH_PeKC6I8p0Pt1hzph_rt) - A series of lecture style video tutorials from Indigo Code on YouTube
+* [WebGL Tutorials - YouTube](https://www.youtube.com/playlist?list=PLjcVFFANLS5zH_PeKC6I8p0Pt1hzph_rt) - A series of lecture style video tutorials from Indigo Code on YouTube.
 
 ## WebGL 2
 
