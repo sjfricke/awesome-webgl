@@ -110,7 +110,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 ### Tutorials
 
-> Online WebGL Tutorials
+> Online WebGL Tutorials (non-video)
 
 * [Getting started with WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL) - Mozilla Foundation guide to getting started with WebGL.
 * [WebGL Fundamentals](http://webglfundamentals.org/) - A series of online tutorials with code samples and live demonstrations.
