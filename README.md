@@ -135,6 +135,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 ### WebGL 2 sub-categories
 * [Articles](#articles-1)
 * [References](#references-1)
+* [Videos](#videos-1)
 
 ### Articles
 
@@ -149,6 +150,12 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 > WebGL 2 references
 
 * [WebGL 2 Spec Sheet (Editor Draft)](https://www.khronos.org/registry/webgl/specs/latest/2.0/) - All the detailed information about WebGL 2.
+
+### Videos
+
+> WebGL related Videos
+
+* [Fun with WebGL 2.0](https://www.youtube.com/watch?v=J9NC6Zf2uk4) - Video tutorial on getting started with WebGL 2 and getting a vertex to screen.
 
 ## Libraries/Frameworks
 
