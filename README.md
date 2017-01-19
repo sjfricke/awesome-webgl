@@ -155,7 +155,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 > WebGL related Videos
 
-* [Fun with WebGL 2.0](https://www.youtube.com/watch?v=J9NC6Zf2uk4) - Video tutorial on getting started with WebGL 2 and getting a vertex to screen.
+* [Fun with WebGL 2.0](https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - Video tutorial series on getting started with WebGL 2, still actively adding videos.
 
 ## Libraries/Frameworks
 
