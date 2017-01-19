@@ -12,6 +12,7 @@ Sometimes load time is a factor in picking a library so here is a list of the di
 |[GLGE](http://www.glge.org/)                                             |0.9           |0.719                 |0.358                  |                                              |
 |[glMatrix](http://glmatrix.net/)                                         |2.3.2         |0.180                 |0.052                  |                                              |
 |[PixiJS](http://www.pixijs.com/)                                         |4.3.3         |1.12                  |0.382                  |                                              |
+|[Regl](http://regl.party/)                                               |1.3.0         |0.260                 |0.071                  |                                              |
 |[Scene.js](http://scenejs.org/)                                          |4.2.0         |0.549                 |0.235                  |                                              |
 |[Sylvester](http://sylvester.jcoglan.com/)                               |0.1.3         |0.043                 |0.013                  |                                              |
 |[Three.js](https://threejs.org/)                                         |83            |0.978                 |0.479                  |                                              |
