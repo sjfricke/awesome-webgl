@@ -12,7 +12,7 @@ Sometimes load time is a factor in picking a library so here is a list of the di
 |[GLGE](http://www.glge.org/)                                             |0.9           |0.719                 |0.358                  |                                              |
 |[glMatrix](http://glmatrix.net/)                                         |2.3.2         |0.180                 |0.052                  |                                              |
 |[Scene.js](http://scenejs.org/)                                          |4.2.0         |0.549                 |0.235                  |                                              |
-|[Three.js](https://threejs.org/)                                         |83            |0.978                 |0.479                  |                                              |
 |[Sylvester](http://sylvester.jcoglan.com/)                               |0.1.3         |0.043                 |0.013                  |                                              |
+|[Three.js](https://threejs.org/)                                         |83            |0.978                 |0.479                  |                                              |
 |[TWGL](http://twgljs.org/)                                               |1.9.0         |0.175 to 0.290        |0.030 to 0.050         |There is a TWGL and TWGL-full version         |
 |[Whitestorm.js](https://whsjs.io/)                                       |1.2.6         |2.16 to 5.76          |No Offical Minified    |There is a full and light version             |
