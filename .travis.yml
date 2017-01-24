@@ -6,6 +6,6 @@ before_script:
 script:
   - awesome_bot README.md --allow-dupe
   - awesome_bot Libraries/Features.md --allow-dupe
-  - awesome_bot Libraries/File-Size.md --allow-dupe
+  - awesome_bot Libraries/File_Size.md --allow-dupe
 notifications:
   email: false
