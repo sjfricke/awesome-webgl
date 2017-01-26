@@ -196,3 +196,6 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) for details.
+
+## Testing
+Travis CI testing automation thanks to [awesome_bot](https://github.com/dkhamsing/awesome_bot)!
