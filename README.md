@@ -65,7 +65,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 >
 > NOTE: [WebGL must conform to The OpenGL ES Shading Language, Version 1.00](https://www.khronos.org/registry/webgl/specs/1.0/#4.3)
 > 
-> [Offical Specs for GLSL Version 1.00](https://www.khronos.org/registry/gles/specs/2.0/GLSL_ES_Specification_1.0.17.pdf)
+> [Offical Specs for GLSL ES Version 1.00](https://www.khronos.org/files/opengles_shading_language.pdf)
 
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
 * [GLSLbin](http://glslb.in) - A fragment shader sandbox supporting [glslify](https://github.com/stackgl/glslify).
@@ -114,7 +114,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 > Online WebGL Tutorials (non-video)
 
 * [Getting started with WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL) - Mozilla Foundation guide to getting started with WebGL.
-* [WebGL Fundamentals](http://webglfundamentals.org/) - A series of online tutorials with code samples and live demonstrations.
+* [WebGL Fundamentals](https://webglfundamentals.org/) - A series of online tutorials with code samples and live demonstrations.
 * [WebGL Academy](http://www.webglacademy.com/) - A simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 * [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of _WebGL Up and Running_.
 * [Get Started Tutorial](https://www.khronos.org/webgl/wiki/Tutorial) - Khronos' tutorial how to get up and running with WebGL.
@@ -142,7 +142,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 > WebGL 2 articles and/or blog posts (non-tutorials)
 
-* [WebGL 2 What's New](http://webgl2fundamentals.org/webgl/lessons/webgl2-whats-new.html) - A look into the new features added in WebGL 2.
+* [WebGL 2 What's New](https://webgl2fundamentals.org/webgl/lessons/webgl2-whats-new.html) - A look into the new features added in WebGL 2.
 * [What's coming in WebGL 2.0](http://blog.tojicode.com/2013/09/whats-coming-in-webgl-20.html) - A look into the upcoming features of WebGL 2.
 * [WebGL 2 SIGGRAPH Asia 2015](https://docs.google.com/presentation/d/1Orx0GB0cQcYhHkYsaEcoo5js3c5-pv7ahPniIRIzzfg/edit#slide=id.p) - Presentation by Zhenyao Mo, Ken Russell of Google during SIGGRAPH Asia 2015.
 
