@@ -72,6 +72,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 * [ShaderFrog](http://shaderfrog.com/) - WebGL Shader Editor and Composer.
+* [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
 
 ### References
 
