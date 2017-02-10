@@ -104,6 +104,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 #### Chrome Specific Tools/Debugger
 
 * [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) - A Chrome DevTools extension to help you edit shaders live in the browser.
+* [Webgl Insight](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 #### Firefox Specific Tools/Debugger
 
