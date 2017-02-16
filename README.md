@@ -64,9 +64,12 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 > Online GLSL Editors
 >
-> NOTE: [WebGL must conform to The OpenGL ES Shading Language, Version 1.00](https://www.khronos.org/registry/webgl/specs/1.0/#4.3)
+> NOTE: [WebGL must conform to The OpenGL ES Shading Language, Version 1.00](https://www.khronos.org/registry/webgl/specs/1.0.3/#4.3)
 > 
-> [Offical Specs for GLSL ES Version 1.00](https://www.khronos.org/files/opengles_shading_language.pdf)
+> [Offical Specs for GLSL Version 1.00](https://www.khronos.org/registry/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf)
+>
+> [Offical Specs for GLSL Version 2.0.25](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_full_spec_2.0.pdf)
+
 
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
 * [GLSLbin](http://glslb.in) - A fragment shader sandbox supporting [glslify](https://github.com/stackgl/glslify).
