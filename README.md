@@ -58,6 +58,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [Programming 3D Applications with HTML5 and WebGL](https://www.amazon.com/Programming-Applications-HTML5-WebGL-Visualization/dp/1449362966) by **by Tony Parisi** - Create high-performance, visually stunning 3D applications for the Web, using HTML5 and related technologies such as CSS3 and WebGL—the emerging web graphics standard.
   * [First two chapters online](http://chimera.labs.oreilly.com/books/1234000000802/ch01.html)
 * [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL](https://www.amazon.com/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920) by **by Kouichi Matsuda** and **Rodger Lea** - WebGL Programming Guide will help you get started quickly with interactive WebGL 3D programming, even if you have no prior knowledge of HTML5, JavaScript, 3D graphics, mathematics, or OpenGL.
+* [Professional WebGL Programming](https://www.amazon.com/Professional-WebGL-Programming-Developing-Graphics/dp/1119968860) by **by Andreas Anyuru** - Everything you need to know about developing hardware-accelerated 3D graphics with WebGL.
 
 ### GLSL Editors
 
