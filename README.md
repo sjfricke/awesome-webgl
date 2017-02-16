@@ -58,6 +58,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [Programming 3D Applications with HTML5 and WebGL](https://www.amazon.com/Programming-Applications-HTML5-WebGL-Visualization/dp/1449362966) by **by Tony Parisi** - Create high-performance, visually stunning 3D applications for the Web, using HTML5 and related technologies such as CSS3 and WebGL—the emerging web graphics standard.
   * [First two chapters online](http://chimera.labs.oreilly.com/books/1234000000802/ch01.html)
 * [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL](https://www.amazon.com/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920) by **by Kouichi Matsuda** and **Rodger Lea** - WebGL Programming Guide will help you get started quickly with interactive WebGL 3D programming, even if you have no prior knowledge of HTML5, JavaScript, 3D graphics, mathematics, or OpenGL.
+* [Professional WebGL Programming](https://www.amazon.com/Professional-WebGL-Programming-Developing-Graphics/dp/1119968860) by **by Andreas Anyuru** - Everything you need to know about developing hardware-accelerated 3D graphics with WebGL.
 
 ### GLSL Editors
 
@@ -69,11 +70,13 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 >
 > [Offical Specs for GLSL Version 2.0.25](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_full_spec_2.0.pdf)
 
+
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
 * [GLSLbin](http://glslb.in) - A fragment shader sandbox supporting [glslify](https://github.com/stackgl/glslify).
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 * [ShaderFrog](http://shaderfrog.com/) - WebGL Shader Editor and Composer.
+* [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
 
 ### References
 
@@ -81,8 +84,10 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
 * [Khronos Offical Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
+* [WebGL Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API Quick Reference Card for printing.
 * [WebGL Spec Sheet](https://www.khronos.org/registry/webgl/specs/1.0/) - All the detailed information about WebGL.
 * [WebVR Community Group](https://www.w3.org/community/webvr/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
+* [Google Project ANGLE](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 
 ### Talks
 
@@ -104,6 +109,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 #### Chrome Specific Tools/Debugger
 
 * [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) - A Chrome DevTools extension to help you edit shaders live in the browser.
+* [Webgl Insight](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 #### Firefox Specific Tools/Debugger
 
@@ -121,6 +127,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of _WebGL Up and Running_.
 * [Get Started Tutorial](https://www.khronos.org/webgl/wiki/Tutorial) - Khronos' tutorial how to get up and running with WebGL.
 * [Learn WebGL](https://www.tutorialspoint.com/webgl/index.htm) - Tutorials Point set of article to get you familiar with WebGL terms.
+* [The Book of Shaders](http://thebookofshaders.com/) - Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 
 ### Videos
 
@@ -153,6 +160,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 > WebGL 2 references
 
 * [WebGL 2 Spec Sheet (Editor Draft)](https://www.khronos.org/registry/webgl/specs/latest/2.0/) - All the detailed information about WebGL 2.
+* [WebGL 2 Reference Card](https://www.khronos.org/files/webgl20-reference-guide.pdf) - WebGL 2.0 API Quick Reference Card for printing.
 
 ### Videos
 
@@ -177,9 +185,11 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [Cesium](http://cesiumjs.org/) - An open-source library for world-class 3D globes and maps.
 * [Deck.gl](https://uber.github.io/deck.gl/) - A WebGL overlay suite for React providing a set of highly performant data visualization overlays.
 * [GLGE](http://www.glge.org/) - A javascript library intended to ease the use of WebGL.
+* [LumaGL](https://uber.github.io/luma.gl/) - WebGL building blocks enabling high-performance browser-based data visualizations.
 * [OSG.js](http://osgjs.org/) - A WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Phaser](http://phaser.io/) - 2D game framework for making HTML5 games, supports mobile web browsers, Canvas and WebGL rendering.
 * [PixiJS](http://www.pixijs.com/) - A powerful 2D Javascript renderer based on WebGL.
+* [Phaser](https://phaser.io/) - An open source HTML5 game framework for Canvas and WebGL.
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - An extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
@@ -198,3 +208,6 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) for details.
+
+## Testing
+Travis CI testing automation thanks to [awesome_bot](https://github.com/dkhamsing/awesome_bot)!
