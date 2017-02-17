@@ -17,4 +17,4 @@ Sometimes load time is a factor in picking a library so here is a list of the di
 |[Sylvester](http://sylvester.jcoglan.com/)                               |0.1.3         |0.043                 |0.013                  |                                              |
 |[Three.js](https://threejs.org/)                                         |r84           |0.977                 |0.479                  |                                              |
 |[TWGL](http://twgljs.org/)                                               |1.9.0         |0.175 to 0.290        |0.030 to 0.050         |There is a TWGL and TWGL-full version         |
-|[Whitestorm.js](https://whsjs.io/)                                       |2.0.0-beta.4  |0.603                 |0.523                  |                                              |
+|[Whitestorm.js](https://whsjs.io/)                                       |2.0.0-beta.4  |Only Minified         |0.603               |                                              |
