@@ -145,6 +145,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 ### WebGL 2 sub-categories
 * [Articles](#articles-1)
 * [References](#references-1)
+* [Tutorials](#tutorials-1)
 * [Videos](#videos-1)
 
 ### Articles
@@ -161,6 +162,11 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 * [WebGL 2 Spec Sheet (Editor Draft)](https://www.khronos.org/registry/webgl/specs/latest/2.0/) - All the detailed information about WebGL 2.
 * [WebGL 2 Reference Card](https://www.khronos.org/files/webgl20-reference-guide.pdf) - WebGL 2.0 API Quick Reference Card for printing.
+* [WebGL 2 compatible chart](http://caniuse.com/#feat=webgl2) - Chart to show current browsers supporting WebGL 2
+
+### Tutorials
+* [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- A series of online tutorials with code samples and live demonstrations.
+* [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
 
 ### Videos
 
@@ -173,9 +179,9 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 > [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries)
 
 ### Math
+* [glMatrix](http://glmatrix.net/) - Javascript matrix and vector library for high performance WebGL apps.
 * [Sylvester](http://sylvester.jcoglan.com/) - Sylvester is a vector, matrix and geometry library for JavaScript.
 * [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
-* [glMatrix](http://glmatrix.net/) - Javascript matrix and vector library for high performance WebGL apps.
 
 ### Others
 * [A-Frame](https://aframe.io/) - A web framework for building virtual reality experiences.
