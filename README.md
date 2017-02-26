@@ -74,7 +74,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
-* [GLSLbin](http://glslb.in) - A fragment shader sandbox supporting [glslify](https://github.com/stackgl/glslify).
+* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/stackgl/glslify).
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 * [ShaderFrog](http://shaderfrog.com/) - WebGL Shader Editor and Composer.
@@ -95,14 +95,14 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 > WebGL related talks
 
-* [List of Presentations](https://www.khronos.org/webgl/wiki/Presentations) - A list presented by Khronos of various WebGL related presentations.
+* [List of Presentations](https://www.khronos.org/webgl/wiki/Presentations) - List presented by Khronos of various WebGL related presentations.
 
 ### Tools/Debugging
 
 > Tools for development and debugging WebGL
 
-* [WebGL Report](http://webglreport.com/?v=1) - A way to view the details of what your browser supports for WebGL.
-* [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - A tool inspired by gDEBugger and PIX with the goal of making the development of advanced WebGL applications easier.
+* [WebGL Report](http://webglreport.com/?v=1) - Way to view the details of what your browser supports for WebGL.
+* [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - Tool inspired by gDEBugger and PIX with the goal of making the development of advanced WebGL applications easier.
 * [WebGl Playground](http://webglplayground.net/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
 * [WebGL Support Stats](http://webglstats.com/) - Interactive dashboard showing the support for WebGL features in different browsers and devices.
 * [WebGL Texture Tester](http://toji.github.io/texture-tester/) - Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
@@ -110,22 +110,22 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 #### Chrome Specific Tools/Debugger
 
-* [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) - A Chrome DevTools extension to help you edit shaders live in the browser.
+* [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
 * [Webgl Insight](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 #### Firefox Specific Tools/Debugger
 
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) - The offical list of all of Firefox's debugger tools.
-* [Canvas Debugger](https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/) - A quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
-* [Shader Editor](https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/) - A quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
+* [Canvas Debugger](https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/) - Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
+* [Shader Editor](https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/) - Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
 
 ### Tutorials
 
 > Online WebGL Tutorials (non-video)
 
 * [Getting started with WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL) - Mozilla Foundation guide to getting started with WebGL.
-* [WebGL Fundamentals](https://webglfundamentals.org/) - A series of online tutorials with code samples and live demonstrations.
-* [WebGL Academy](http://www.webglacademy.com/) - A simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
+* [WebGL Fundamentals](https://webglfundamentals.org/) - Series of online tutorials with code samples and live demonstrations.
+* [WebGL Academy](http://www.webglacademy.com/) - Simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 * [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of _WebGL Up and Running_.
 * [Get Started Tutorial](https://www.khronos.org/webgl/wiki/Tutorial) - Khronos' tutorial how to get up and running with WebGL.
 * [Learn WebGL](https://www.tutorialspoint.com/webgl/index.htm) - Tutorials Point set of article to get you familiar with WebGL terms.
@@ -135,8 +135,8 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 > WebGL Related Videos
 
-* [An Introduction to WebGL Programming](https://www.youtube.com/watch?v=tgVLb6fOVVc&feature=youtu.be) - A 3 hour overview of WebGL by SIGGRAPH University.
-* [WebGL Tutorials - YouTube](https://www.youtube.com/playlist?list=PLjcVFFANLS5zH_PeKC6I8p0Pt1hzph_rt) - A series of lecture style video tutorials from Indigo Code on YouTube.
+* [An Introduction to WebGL Programming](https://www.youtube.com/watch?v=tgVLb6fOVVc&feature=youtu.be) - 3 hour overview of WebGL by SIGGRAPH University.
+* [WebGL Tutorials - YouTube](https://www.youtube.com/playlist?list=PLjcVFFANLS5zH_PeKC6I8p0Pt1hzph_rt) - Series of lecture style video tutorials from Indigo Code on YouTube.
 
 ## WebGL 2
 
@@ -154,8 +154,8 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 > WebGL 2 articles and/or blog posts (non-tutorials)
 
-* [WebGL 2 What's New](https://webgl2fundamentals.org/webgl/lessons/webgl2-whats-new.html) - A look into the new features added in WebGL 2.
-* [What's coming in WebGL 2.0](http://blog.tojicode.com/2013/09/whats-coming-in-webgl-20.html) - A look into the upcoming features of WebGL 2.
+* [WebGL 2 What's New](https://webgl2fundamentals.org/webgl/lessons/webgl2-whats-new.html) - Look into the new features added in WebGL 2.
+* [What's coming in WebGL 2.0](http://blog.tojicode.com/2013/09/whats-coming-in-webgl-20.html) - Look into the upcoming features of WebGL 2.
 * [WebGL 2 SIGGRAPH Asia 2015](https://docs.google.com/presentation/d/1Orx0GB0cQcYhHkYsaEcoo5js3c5-pv7ahPniIRIzzfg/edit#slide=id.p) - Presentation by Zhenyao Mo, Ken Russell of Google during SIGGRAPH Asia 2015.
 
 ### References
@@ -167,7 +167,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [WebGL 2 compatible chart](http://caniuse.com/#feat=webgl2) - Chart to show current browsers supporting WebGL 2
 
 ### Tutorials
-* [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- A series of online tutorials with code samples and live demonstrations.
+* [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 * [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
 
 ### Videos
@@ -186,20 +186,20 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 * [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
 
 ### Others
-* [A-Frame](https://aframe.io/) - A web framework for building virtual reality experiences.
+* [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
 * [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
-* [Babylon.js](http://www.babylonjs.com/) - A complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
+* [Babylon.js](http://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 * [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
-* [Cesium](http://cesiumjs.org/) - An open-source library for world-class 3D globes and maps.
-* [Deck.gl](https://uber.github.io/deck.gl/) - A WebGL overlay suite for React providing a set of highly performant data visualization overlays.
-* [GLGE](http://www.glge.org/) - A javascript library intended to ease the use of WebGL.
+* [Cesium](http://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
+* [Deck.gl](https://uber.github.io/deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
+* [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
 * [LumaGL](https://uber.github.io/luma.gl/) - WebGL building blocks enabling high-performance browser-based data visualizations.
-* [OSG.js](http://osgjs.org/) - A WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
+* [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Phaser](http://phaser.io/) - 2D game framework for making HTML5 games, supports mobile web browsers, Canvas and WebGL rendering.
-* [PixiJS](http://www.pixijs.com/) - A powerful 2D Javascript renderer based on WebGL.
-* [Phaser](https://phaser.io/) - An open source HTML5 game framework for Canvas and WebGL.
+* [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
+* [Phaser](https://phaser.io/) - Open source HTML5 game framework for Canvas and WebGL.
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
-* [Scene.js](http://scenejs.org/) - An extensible WebGL-based engine for high-detail 3D visualisation.
+* [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
 * [Whitestorm.js](https://whsjs.io/) - Framework for developing 3D web apps with physics.
 
@@ -207,12 +207,12 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
-* [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
-* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development.
-* [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
+* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+* [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
+* [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+* [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) for details.
