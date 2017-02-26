@@ -12,7 +12,7 @@ WebGL elements can be mixed with other HTML elements and composited with other p
 WebGL programs consist of control code written in JavaScript and shader code that is executed on a computer's Graphics
 Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and maintained by the non-profit [Khronos Group](https://www.khronos.org/).
 
-## Table of Contents (TOC)
+## Contents
 * [WebGL](#webgl)
 * [WebGL 2](#webgl-2)
 * [Libraries/Frameworks](#librariesframeworks)
