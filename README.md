@@ -1,5 +1,7 @@
 # Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
+
 A curated list of awesome WebGL libraries, resources and much more.
 
 ## What is WebGL
