@@ -229,3 +229,9 @@ Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/
 
 ## Testing
 Travis CI testing automation thanks to [awesome_bot](https://github.com/dkhamsing/awesome_bot)!
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) has waived all copyright and related or neighboring rights to this work.
