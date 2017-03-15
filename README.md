@@ -12,12 +12,12 @@ of the browser allowing GPU accelerated usage of physics and image processing an
 
 WebGL elements can be mixed with other HTML elements and composited with other parts of the page or page background.
 WebGL programs consist of control code written in JavaScript and shader code that is executed on a computer's Graphics
-Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and maintained by the non-profit [Khronos Group](https://www.khronos.org/).
+Processing Unit (GPU).
 
 ## Contents
 * [WebGL](#webgl)
 * [WebGL 2](#webgl-2)
-* [Libraries/Frameworks](#librariesframeworks)
+* [Libraries](#libraries)
 
 ## WebGL
 
@@ -176,7 +176,7 @@ Processing Unit (GPU). [WebGL](https://www.khronos.org/webgl/) is designed and m
 
 * [Fun with WebGL 2.0](https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - Video tutorial series on getting started with WebGL 2, still actively adding videos.
 
-## Libraries/Frameworks
+## Libraries
 
 > [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries)
 
