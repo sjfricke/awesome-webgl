@@ -18,6 +18,7 @@ Processing Unit (GPU).
 * [WebGL](#webgl)
 * [WebGL 2](#webgl-2)
 * [Libraries](#libraries)
+* [Community](#community)
 
 ## WebGL
 
@@ -201,6 +202,16 @@ Processing Unit (GPU).
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
 * [Whitestorm.js](https://whsjs.io/) - Framework for developing 3D web apps with physics.
+
+## Community
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/webgl)
+* [Reddit](https://www.reddit.com/r/webgl/)
+* [Facebook](https://www.facebook.com/groups/webgl/)
+* [Twitter](https://twitter.com/webgl)
+* [Freenode IRC](http://webchat.freenode.net/?channels=webgl)
+* [Khronos Forum](https://forums.khronos.org/forumdisplay.php/92-WebGL)
+* [Google Group](https://groups.google.com/forum/#!forum/webgl-dev-list)
+* [Google Plus](https://plus.google.com/communities/114915309361980512257)
 
 ## Related lists
 
