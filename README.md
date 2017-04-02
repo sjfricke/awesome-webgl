@@ -212,6 +212,7 @@ Processing Unit (GPU).
 * [Khronos Forum](https://forums.khronos.org/forumdisplay.php/92-WebGL)
 * [Google Group](https://groups.google.com/forum/#!forum/webgl-dev-list)
 * [Google Plus](https://plus.google.com/communities/114915309361980512257)
+* [Public Mailing List](https://www.khronos.org/webgl/public-mailing-list/)
 
 ## Related lists
 
