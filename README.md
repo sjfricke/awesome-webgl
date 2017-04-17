@@ -71,7 +71,7 @@ Processing Unit (GPU).
 > 
 > [Offical Specs for GLSL Version 1.00](https://www.khronos.org/registry/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf)
 >
-> [Offical Specs for GLSL Version 2.0.25](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_full_spec_2.0.pdf)
+> [Offical Specs for Open ES Version 2.0.25](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_full_spec_2.0.pdf)
 
 
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
