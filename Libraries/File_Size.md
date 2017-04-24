@@ -15,6 +15,6 @@ Sometimes load time is a factor in picking a library so here is a list of the di
 |[Regl](http://regl.party/)                                               |1.3.0         |0.260                 |0.071                  |                                              |
 |[Scene.js](http://scenejs.org/)                                          |4.2.0         |0.549                 |0.235                  |                                              |
 |[Sylvester](http://sylvester.jcoglan.com/)                               |0.1.3         |0.043                 |0.013                  |                                              |
-|[Three.js](https://threejs.org/)                                         |r84           |0.977                 |0.479                  |                                              |
+|[Three.js](https://threejs.org/)                                         |r85           |0.996                 |0.486                  |                                              |
 |[TWGL](http://twgljs.org/)                                               |1.9.0         |0.175 to 0.290        |0.030 to 0.050         |There is a TWGL and TWGL-full version         |
 |[Whitestorm.js](https://whsjs.io/)                                       |2.0.0-beta.4  |Only Minified         |0.603               |                                              |
