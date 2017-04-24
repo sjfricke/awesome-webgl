@@ -6,7 +6,7 @@ Sometimes load time is a factor in picking a library so here is a list of the di
 |-------------------------------------------------------------------------|:------------:|:--------------------:|:---------------------:|:--------------------------------------------:|
 |[A-Frame](https://aframe.io/)                                            |0.5.0         |1.97                  |1.00                   |                                              |
 |[Ammo.js](https://github.com/kripken/ammo.js/)                           |N/A           |Only Minified         |1.80                   |                                              |
-|[Babylon.js](http://www.babylonjs.com/)                                  |2.5           |2.76 to 4.67          |1.14 to 2.54           |Can generate custom builds, showing ranges    |
+|[Babylon.js](https://www.babylonjs.com/)                                 |2.5           |2.76 to 4.67          |1.14 to 2.54           |Can generate custom builds, showing ranges    |
 |[CopperLicht](http://www.ambiera.com/copperlicht/index.html)             |1.12          |Only Minified         |0.380                  |                                              |
 |[Cesium](http://cesiumjs.org/)                                           |1.30          |7.40                  |2.00                   |                                              |
 |[GLGE](http://www.glge.org/)                                             |0.9           |0.719                 |0.358                  |                                              |
