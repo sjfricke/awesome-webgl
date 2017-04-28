@@ -42,7 +42,7 @@ Processing Unit (GPU).
 > WebGL articles and/or blog posts (non-tutorials)
 
 * [Context Loss & Preloading](https://medium.com/@mattdesl/non-intrusive-webgl-cebd176c281d#.gyc6h9mr5) - How to manage WebGL when you run into the dreaded context lost.
-* [WebGL Off the Main Thread] (https://hacks.mozilla.org/2016/01/webgl-off-the-main-thread/) - How to use Web Workers in WebGL.
+* [WebGL Off the Main Thread](https://hacks.mozilla.org/2016/01/webgl-off-the-main-thread/) - How to use Web Workers in WebGL.
 
 ### Blog Series
 
