@@ -160,6 +160,7 @@ Processing Unit (GPU).
 * [What's coming in WebGL 2.0](http://blog.tojicode.com/2013/09/whats-coming-in-webgl-20.html) - Look into the upcoming features of WebGL 2.
 * [WebGL 2 SIGGRAPH Asia 2015](https://docs.google.com/presentation/d/1Orx0GB0cQcYhHkYsaEcoo5js3c5-pv7ahPniIRIzzfg/edit#slide=id.p) - Presentation by Zhenyao Mo, Ken Russell of Google during SIGGRAPH Asia 2015.
 * [WebGL 2 lands in Firefox](https://hacks.mozilla.org/2017/01/webgl-2-lands-in-firefox/) - Information the support for WebGL 2 starting with Firefox 51.
+* [WebGL 2 Basics](http://www.realtimerendering.com/blog/webgl-2-basics/) - Blog post about getting started with WebGL 2.
 
 ### References
 
