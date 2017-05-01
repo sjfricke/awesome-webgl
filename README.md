@@ -190,6 +190,9 @@ Processing Unit (GPU).
 * [Sylvester](http://sylvester.jcoglan.com/) - Sylvester is a vector, matrix and geometry library for JavaScript.
 * [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
 
+### WebGL 2
+* [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
+
 ### Others
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
 * [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
