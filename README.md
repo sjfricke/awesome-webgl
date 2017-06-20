@@ -192,6 +192,16 @@ Processing Unit (GPU).
 
 ## WebVR
 
+> Information about different parts of the new and upcoming WebVR ecosystem
+>
+> All items related to more developers and less on where to find WebVR content as entertainment
+
+#### WebVR sub-categories
+
+* [References](#references)
+
+### References
+
 ## Libraries
 
 > [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries)
