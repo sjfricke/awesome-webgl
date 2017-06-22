@@ -19,7 +19,7 @@ Processing Unit (GPU).
 * [WebGL 2](#webgl-2)
 * [WebVR](#webvr)
 * [Libraries](#libraries)
-* [Community](#community)
+* [Community](#community-1)
 
 ## WebGL
 
@@ -199,7 +199,7 @@ Processing Unit (GPU).
 #### WebVR sub-categories
 
 * [Community](#community)
-* [References](#references)
+* [References](#references-2)
 
 ### Community
 * [WebVR Public Mailing List](https://lists.w3.org/Archives/Public/public-webvr/)
