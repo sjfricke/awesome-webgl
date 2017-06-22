@@ -198,7 +198,11 @@ Processing Unit (GPU).
 
 #### WebVR sub-categories
 
+* [Community](#community)
 * [References](#references)
+
+### Community
+* [WebVR Public Mailing List](https://lists.w3.org/Archives/Public/public-webvr/)
 
 ### References
 
