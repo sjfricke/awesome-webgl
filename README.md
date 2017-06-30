@@ -138,6 +138,7 @@ Processing Unit (GPU).
 * [The Book of Shaders](http://thebookofshaders.com/) - Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 * [WebGL Academy](http://www.webglacademy.com/) - Simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 * [WebGL Fundamentals](https://webglfundamentals.org/) - Series of online tutorials with code samples and live demonstrations.
+* [WebGL Workshop](http://webgl-workshop.com/) - Interactive workshop to get you up and running with WebGL.
 
 ### Videos
 
