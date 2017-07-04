@@ -206,6 +206,7 @@ Processing Unit (GPU).
 * [WebVR Public Mailing List](https://lists.w3.org/Archives/Public/public-webvr/)
 
 ### References
+* [WebVR Spec](https://w3c.github.io/webvr/)
 
 ## Libraries
 
