@@ -236,6 +236,7 @@ Processing Unit (GPU).
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
+* [Pocket.gl](http://pocket.gl/) - Fully customizable webgl shader sandbox to embed in your pages.
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
