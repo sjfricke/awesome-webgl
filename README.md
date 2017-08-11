@@ -227,6 +227,7 @@ Processing Unit (GPU).
 ### WebVR
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
   * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe)
+* [Primrose](https://www.primrosevr.com/) - Rapidly prototype VR applications in your browser.
 
 ### Others
 * [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
