@@ -1,5 +1,7 @@
 # WebGL Libraries - Features
 
+## TODO- Work in progress
+
 Libraries/Frameworks all have one goal: **Use abstraction to allow you to spend more time developing the features of your application**
 
 With this, we are not here to judge or say which library is "better" as that is not a feasible question to answer. So what we **can** offer is a chart to show you what each library has to offer in terms of things it will help abstracts for you
@@ -8,13 +10,8 @@ With this, we are not here to judge or say which library is "better" as that is 
 
 | Libraries                                                               |[2D](#2d-images)|[2D Text](#2d-text)|[Animation](#animation)|[Audio](#audio)|[Exporting](#exporting)|[Importing](#importing)|[Math](#math)|[Modeling](#modeling)|[Point Cloud](#point-cloud)|[Physics](#physics)|[Rendering](#rendering)|[Shaders](#shaders)|[Texturing](#texturing)|[WebVR](#webvr)|
 |-------------------------------------------------------------------------|:--------------:|:-----------------:|:---------------------:|:-------------:|:---------------------:|:---------------------:|:-----------:|:-------------------:|:-------------------------:|:-----------------:|:---------------------:|:-----------------:|:---------------------:|:-------------:|
-|[A-Frame](https://aframe.io/)                                            |                |                   |**X**                  |**X**          |                       |**X**                  |             |                     |                           |                   |                       |                   |                       |**X**          |
-|[Ammo.js](https://github.com/kripken/ammo.js/)                           |                |                   |                       |               |                       |                       |             |                     |                           |**X**              |                       |                   |                       |               |
-|[Babylon.js](https://www.babylonjs.com/)                                  |                |                   |                       |               |                       |                       |             |                     |                           |                   |                       |                   |                       |               |
-|[GLGE](http://www.glge.org/)                                             |                |                   |**X**                  |               |                       |                       |             |                     |                           |**X**              |**X**                  |                   |**X**                  |               |
-|[Sylvester](http://sylvester.jcoglan.com/)                               |                |                   |                       |               |                       |                       |**X**        |                     |                           |                   |                       |                   |                       |               |
-|[Three.js](https://threejs.org/)                                         |**X**           |                   |**X**                  |**X**          |                       |**X**                  |             |**X**                |                           |                   |**X**                  |**X**              |**X**                  |               |
-|[TWGL](http://twgljs.org/)                                               |                |                   |                       |               |                       |                       |**X**        |                     |                           |                   |                       |                   |                       |               |
+|[library 1](#)                                                           |                |                   |**X**                  |**X**          |                       |**X**                  |             |                     |                           |                   |                       |                   |                       |**X**          |
+|[Library 2](#)                                  |                |                   |                       |               |                       |                       |             |                     |                           |**X**              |                       |                   |                       |               |
 
 ## Column Key
 
