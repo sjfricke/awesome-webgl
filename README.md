@@ -197,16 +197,35 @@ Processing Unit (GPU).
 >
 > All items related to more developers and less on where to find WebVR content as entertainment
 
-#### WebVR sub-categories
+### WebVR sub-categories
 
+* [Articles](#articles-2)
+* [Blog Series](#blog-series-1)
 * [Platforms](#platforms)
 * [References](#references-2)
 
+### Articles
+
+> WebVR articles and/or blog posts (non-tutorials)
+
+### Blog Series
+
+> Maintained blog series of WebVR focused topics
+
+* [Mozilla VR Blog](https://blog.mozvr.com/) - WebVR focused blog from makers of Firefox.
+
 ### Platforms
+
+> WebVR designed platforms to experience
+
 * [JanusVR](https://janusvr.com/) - Webpages as collaborative 3D webspaces interconnected by portals.
 
 ### References
-* [WebVR Spec](https://w3c.github.io/webvr/)
+
+> WebVR references
+
+* [WebVR Spec](https://w3c.github.io/webvr/) - The offical W3C WebVR specs.
+* [Mozilla VR](https://mozvr.com/) - Mozilla's offical WebVR page.
 
 ## Libraries
 
