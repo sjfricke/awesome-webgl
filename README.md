@@ -19,7 +19,7 @@ Processing Unit (GPU).
 * [WebGL 2](#webgl-2)
 * [WebVR](#webvr)
 * [Libraries](#libraries)
-* [Community](#community-1)
+* [Community](#community)
 
 ## WebGL
 
@@ -199,12 +199,8 @@ Processing Unit (GPU).
 
 #### WebVR sub-categories
 
-* [Community](#community)
 * [Platforms](#platforms)
 * [References](#references-2)
-
-### Community
-* [WebVR Public Mailing List](https://lists.w3.org/Archives/Public/public-webvr/)
 
 ### Platforms
 * [JanusVR](https://janusvr.com/) - Webpages as collaborative 3D webspaces interconnected by portals.
@@ -261,6 +257,7 @@ Processing Unit (GPU).
 * [Google Plus](https://plus.google.com/communities/114915309361980512257)
 * [Public Mailing List](https://www.khronos.org/webgl/public-mailing-list/)
 * [WebVR Slack](http://webvr-slack.herokuapp.com/)
+* [WebVR Public Mailing List](https://lists.w3.org/Archives/Public/public-webvr/)
 
 ## Related lists
 
