@@ -256,6 +256,7 @@ Processing Unit (GPU).
 * [Google Group](https://groups.google.com/forum/#!forum/webgl-dev-list)
 * [Google Plus](https://plus.google.com/communities/114915309361980512257)
 * [Public Mailing List](https://www.khronos.org/webgl/public-mailing-list/)
+* [WebVR Slack](http://webvr-slack.herokuapp.com/)
 
 ## Related lists
 
