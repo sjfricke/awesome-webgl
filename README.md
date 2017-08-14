@@ -109,7 +109,7 @@ Processing Unit (GPU).
 
 * [Spector.js](http://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 * [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - Tool inspired by gDEBugger and PIX with the goal of making the development of advanced WebGL applications easier.
-* [WebGl Playground](http://webglplayground.net/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
+* [WebGl Playground](http://jessevdk.github.io/webgl-play/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
 * [WebGL Report](http://webglreport.com/?v=1) - Way to view the details of what your browser supports for WebGL.
 * [WebGL Support Stats](http://webglstats.com/) - Interactive dashboard showing the support for WebGL features in different browsers and devices.
 * [WebGL Texture Tester](http://toji.github.io/texture-tester/) - Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
@@ -266,7 +266,7 @@ Processing Unit (GPU).
 * [Whitestorm.js](https://whsjs.io/) - Framework for developing 3D web apps with physics.
 
 ## Community
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/webgl)
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/webgl)
 * [Reddit](https://www.reddit.com/r/webgl/)
 * [Facebook](https://www.facebook.com/groups/webgl/)
 * [Twitter](https://twitter.com/webgl)
