@@ -200,10 +200,14 @@ Processing Unit (GPU).
 #### WebVR sub-categories
 
 * [Community](#community)
+* [Platforms](#platforms)
 * [References](#references-2)
 
 ### Community
 * [WebVR Public Mailing List](https://lists.w3.org/Archives/Public/public-webvr/)
+
+### Platforms
+* [JanusVR](https://janusvr.com/) - Webpages as collaborative 3D webspaces interconnected by portals.
 
 ### References
 * [WebVR Spec](https://w3c.github.io/webvr/)
