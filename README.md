@@ -253,6 +253,7 @@ Processing Unit (GPU).
   * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe)
 * [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
 * [LÖVR](http://lovr.org/) - Simple framework for creating VR with Lua.
+* [ReactVR](https://facebook.github.io/react-vr/) - Build VR websites and interactive 360 experiences with React.
 * [Primrose](https://www.primrosevr.com/) - Rapidly prototype VR applications in your browser.
 
 ### Others
