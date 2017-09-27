@@ -268,6 +268,7 @@ Processing Unit (GPU).
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
 * [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
+* [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
 * [Pocket.gl](http://pocket.gl/) - Fully customizable webgl shader sandbox to embed in your pages.
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
