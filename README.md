@@ -241,13 +241,18 @@ Processing Unit (GPU).
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 
+### Maps and Visualizations
+* [Cesium](http://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
+* [Deck.gl](https://uber.github.io/deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
+* [Luma.gl](https://uber.github.io/luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
+* [xeogl](http://xeogl.org/) - Data-driven 3D visualization engine on WebGL.
+
 ### Math
 * [glMatrix](http://glmatrix.net/) - Javascript matrix and vector library for high performance WebGL apps.
 * [Sylvester](http://sylvester.jcoglan.com/) - Sylvester is a vector, matrix and geometry library for JavaScript.
 * [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
 
 ### WebGL 2
-* [Luma.gl](https://uber.github.io/luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
 * [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
 ### WebVR
@@ -263,8 +268,6 @@ Processing Unit (GPU).
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 * [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 * [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
-* [Cesium](http://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
-* [Deck.gl](https://uber.github.io/deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
 * [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
@@ -273,7 +276,6 @@ Processing Unit (GPU).
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
-* [xeogl](http://xeogl.org/) - Data-driven 3D visualization engine on WebGL.
 * [Whitestorm.js](https://whsjs.io/) - Framework for developing 3D web apps with physics.
 
 ## Community
