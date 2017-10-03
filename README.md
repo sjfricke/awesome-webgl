@@ -240,6 +240,7 @@ Processing Unit (GPU).
 ### 2D
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
+* [Stage.js](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
 
 ### Maps and Visualizations
 * [Cesium](http://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
