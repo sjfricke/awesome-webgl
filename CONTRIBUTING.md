@@ -20,12 +20,12 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - End all descriptions with a period.
-- No Amazon references in links for books.
+- No Amazon affiliate codes in links for books.
 - Add authors in book listing with `by **Author**` format.
 
 # How to contribute from GitHub.com
 
-- Make sure you have a free GitHub.com account and you are logged in.
+- Make sure you have a free [GitHub.com](https://github.com/join) account and you are logged in.
 - Find an appropriate topic category in the [README.md](https://github.com/sjfricke/awesome-webgl/blob/master/README.md) file to add it under, or add your own if you think it is needed.
 - Click the :pencil: button [Edit link](https://github.com/sjfricke/awesome-webgl/edit/master/README.md) on the top right-hand corner of the README.md. This will do two things:
   - Fork the repository to your account.
