@@ -179,7 +179,7 @@ Processing Unit (GPU).
 
 * [WebGL 2 Spec Sheet (Editor Draft)](https://www.khronos.org/registry/webgl/specs/latest/2.0/) - All the detailed information about WebGL 2.
 * [WebGL 2 Reference Card](https://www.khronos.org/files/webgl20-reference-guide.pdf) - WebGL 2.0 API Quick Reference Card for printing.
-* [WebGL 2 Compatible Chart](http://caniuse.com/#feat=webgl2) - Chart to show current browsers supporting WebGL 2
+* [WebGL 2 Compatible Chart](https://caniuse.com/#feat=webgl2) - Chart to show current browsers supporting WebGL 2
 
 ### Tutorials
 * [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
@@ -261,7 +261,7 @@ Processing Unit (GPU).
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
   * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe)
 * [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
-* [LÖVR](http://lovr.org/) - Simple framework for creating VR with Lua.
+* [LÖVR](https://lovr.org/) - Simple framework for creating VR with Lua.
 * [ReactVR](https://facebook.github.io/react-vr/) - Build VR websites and interactive 360 experiences with React.
 * [Primrose](https://www.primrosevr.com/) - Rapidly prototype VR applications in your browser.
 
@@ -283,7 +283,7 @@ Processing Unit (GPU).
 ## Community
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/webgl)
 * [Reddit](https://www.reddit.com/r/webgl/)
-* [Facebook](https://www.facebook.com/groups/webgl/)
+* [Facebook](https://www.facebook.com/groups/webgl/about/)
 * [Twitter](https://twitter.com/webgl)
 * [Freenode IRC](http://webchat.freenode.net/?channels=webgl)
 * [Khronos Forum](https://forums.khronos.org/forumdisplay.php/92-WebGL)
