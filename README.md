@@ -264,6 +264,11 @@ Processing Unit (GPU).
 * [Sylvester](http://sylvester.jcoglan.com/) - Sylvester is a vector, matrix and geometry library for JavaScript.
 * [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
 
+### Rendering
+* [GLBoost](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
+* [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
+* [Hilo3d](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
+
 ### WebGL 2
 * [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
