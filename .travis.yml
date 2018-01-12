@@ -4,7 +4,7 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --white-list https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf
+  - awesome_bot README.md --allow-dupe --white-list https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf,https://www.facebook.com/groups/webgl/about/
   - awesome_bot Libraries/Features.md --allow-dupe
   - awesome_bot Libraries/File_Size.md --allow-dupe
 notifications:
