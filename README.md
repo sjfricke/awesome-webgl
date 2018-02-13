@@ -269,6 +269,10 @@ Processing Unit (GPU).
 * [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
 * [Hilo3d](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
 
+### Physics
+* [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
+
 ### WebGL 2
 * [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
@@ -281,7 +285,6 @@ Processing Unit (GPU).
 * [Primrose](https://www.primrosevr.com/) - Rapidly prototype VR applications in your browser.
 
 ### Others
-* [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 * [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 * [ClayGL](http://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
