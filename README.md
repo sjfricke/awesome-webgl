@@ -237,7 +237,7 @@ Processing Unit (GPU).
 > WebVR references
 
 * [Browser Support](https://webvr.rocks/) - Shows support by browser, headset, and OS.
-* [Mozilla VR](https://mozvr.com/) - Mozilla's offical WebVR page.
+* [Mozilla VR](https://vr.mozilla.org/) - Mozilla's offical WebVR page.
 * [UX of VR](https://www.uxofvr.com/) - Curated list of resources to help create good UX in WebVR.
 * [WebVR Spec](https://w3c.github.io/webvr/) - The offical W3C WebVR specs.
   * [How to read WebVR Specs](https://dassur.ma/things/reading-specs/)
