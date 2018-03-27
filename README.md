@@ -321,10 +321,10 @@ Processing Unit (GPU).
 > Similar awesome lists
 
 * [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
 * [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+* [glTF](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 
 ## Contributing
