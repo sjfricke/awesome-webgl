@@ -315,6 +315,12 @@ Processing Unit (GPU).
 * [Public Mailing List](https://www.khronos.org/webgl/public-mailing-list/)
 * [WebVR Slack](http://webvr-slack.herokuapp.com/)
 * [WebVR Public Mailing List](https://lists.w3.org/Archives/Public/public-webvr/)
+* Active Meetup Groups
+  * [San Francisco, CA](https://www.meetup.com/WebGL-Developers-Meetup/)
+  * [Mountain View, CA](https://www.meetup.com/Silicon-Valley-HTML5-WebGL-Meetup/)
+  * [London, United Kingdom](https://www.meetup.com/WebGL-Workshop-London/)
+  * [New York, NY](https://www.meetup.com/NYC-WebGL-Developers/)
+  * [Taipei, Taiwan](https://www.meetup.com/TPE-WebGL-WebVR/)
 
 ## Related lists
 
