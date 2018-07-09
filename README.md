@@ -259,7 +259,6 @@ Processing Unit (GPU).
 > [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries)
 
 ### 2D
-* [GammaCV](https://gammacv.com) - WebGL accelerated Computer Vision library for browser.
 * [p2.js](https://github.com/schteppe/p2.js) - 2D rigid body physics engine written in JavaScript.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
