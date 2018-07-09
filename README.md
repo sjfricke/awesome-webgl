@@ -29,6 +29,8 @@ Processing Unit (GPU).
 * [Articles](#articles)
 * [Blog Series](#blog-series)
 * [Books](#books)
+* [Computation](#computation)
+  * [Computer Vision](#computer-vision)
 * [Bug Reporting](#bug-reporting)
 * [GLSL Editors](#glsl-editors)
 * [References](#references)
@@ -75,6 +77,14 @@ Processing Unit (GPU).
 * [Khronos BugZilla](https://www.khronos.org/bugzilla/buglist.cgi?product=WebGL&query_format=advanced) - Spec or Conformance related bugs
 * [Mozilla BugZilla](https://bugzilla.mozilla.org) - Firefox related bugs
 * [WebKit Bugzilla](https://bugs.webkit.org/enter_bug.cgi?assigned_to=cmarrin%40apple.com&attachurl=&blocked=&bug_file_loc=http%3A%2F%2F&bug_severity=Normal&bug_status=NEW&comment=&component=WebGL&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&dependson=&description=&flag_type-1=X&flag_type-3=X&form_name=enter_bug&keywords=&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Mac%20OS%20X%2010.5&priority=P2&product=WebKit&rep_platform=PC&short_desc=&version=528%2B%20%28Nightly%20build%29) - Safari related bugs
+
+### Computation
+
+#### Computer Vision
+
+* [GammaCV](https://gammacv.com) - WebGL accelerated Computer Vision library for browser.
+
+
 
 ### GLSL Editors
 
