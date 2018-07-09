@@ -9,6 +9,7 @@ Sometimes load time is a factor in picking a library so here is a list of the di
 |[Babylon.js](https://www.babylonjs.com/)                                 |3.0           |2.88 to 3.29          |1.39 to 2.67           |Can generate custom builds, showing ranges    |
 |[CopperLicht](http://www.ambiera.com/copperlicht/index.html)             |1.12          |Only Minified         |0.380                  |                                              |
 |[Cesium](https://cesiumjs.org/)                                          |1.36          |9.13                  |2.66                   |                                              |
+|[GammaCV](https://gammacv.com/)                                          |0.0.1          |0.087                  |0.032                   |                                              |
 |[GLGE](http://www.glge.org/)                                             |0.9           |0.719                 |0.358                  |                                              |
 |[glMatrix](http://glmatrix.net/)                                         |2.4.0         |0.166                 |0.046                  |                                              |
 |[PicoGL.JS](https://tsherif.github.io/picogl.js/)                        |0.6.5         |0.113                 |0.037                  |                                              |
