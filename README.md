@@ -99,7 +99,7 @@ Processing Unit (GPU).
 
 * [Google Project ANGLE](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [Khronos Offical Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
-* [WebVR Community Group](https://www.w3.org/community/webvr/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
+* [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
 * [WebGL Errata](https://www.khronos.org/webgl/wiki/Errata_to_the_WebGL_Specification) - Known bugs in graphics drivers affect the conformance suite, and consequently, portability of code.
 * [WebGL Extensions](https://www.khronos.org/registry/webgl/extensions/) - List of extensions for WebGL
 * [WebGL Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API Quick Reference Card for printing.
@@ -149,7 +149,7 @@ Processing Unit (GPU).
 * [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of _WebGL Up and Running_.
 * [Multitexturing using a Blendmap](http://chinedufn.com/webgl-multitexture-blend-map-tutorial/) - How to use a blendmap to multitexture a terrain.
 * [Particle Effects via Billboards](http://chinedufn.com/webgl-particle-effect-billboard-tutorial/) - Create particle effects by applying a technique called billboarding.
-* [The Book of Shaders](http://thebookofshaders.com/) - Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+* [The Book of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 * [WebGL Academy](http://www.webglacademy.com/) - Simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 * [WebGL Fundamentals](https://webglfundamentals.org/) - Series of online tutorials with code samples and live demonstrations.
 * [WebGL Workshop](http://webgl-workshop.com/) - Interactive workshop to get you up and running with WebGL.
@@ -260,8 +260,8 @@ Processing Unit (GPU).
 
 ### Maps and Visualizations
 * [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
-* [Deck.gl](https://uber.github.io/deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
-* [Luma.gl](https://uber.github.io/luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
+* [Deck.gl](http://deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
+* [Luma.gl](http://luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
 * [xeogl](http://xeogl.org/) - Data-driven 3D visualization engine on WebGL.
 
 ### Math
@@ -286,14 +286,14 @@ Processing Unit (GPU).
   * [Awesome-AFrame](https://github.com/aframevr/awesome-aframe)
 * [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
 * [LÖVR](https://lovr.org/) - Simple framework for creating VR with Lua.
-* [ReactVR](https://facebook.github.io/react-vr/) - Build VR websites and interactive 360 experiences with React.
+* [React 360](https://facebook.github.io/react-360/) - Build VR websites and interactive 360 experiences with React.
 * [Primrose](https://www.primrosevr.com/) - Rapidly prototype VR applications in your browser.
 
 ### Others
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 * [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 * [ClayGL](http://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
-* [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
+* [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
 * [Lightgl.js](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype.
 * [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
