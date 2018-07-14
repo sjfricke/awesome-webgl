@@ -255,8 +255,13 @@ Processing Unit (GPU).
 * [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
 * [Stage.js](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
 
-### Computer Vision
+### Compute (GPGPU)
+
+#### Computer Vision
 * [GammaCV](https://gammacv.com) - WebGL accelerated Computer Vision library for browser.
+
+#### Particles
+* [Phenomenon](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
 
 ### Maps and Visualizations
 * [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
