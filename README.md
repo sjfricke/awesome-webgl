@@ -266,7 +266,7 @@ Processing Unit (GPU).
 ### Maps and Visualizations
 * [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
 * [Deck.gl](http://deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
-* [Luma.gl](http://luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
+* [Luma.gl](https://luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
 * [xeogl](http://xeogl.org/) - Data-driven 3D visualization engine on WebGL.
 
 ### Math
