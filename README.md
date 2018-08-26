@@ -292,7 +292,7 @@ Processing Unit (GPU).
 * [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
 * [LÖVR](https://lovr.org/) - Simple framework for creating VR with Lua.
 * [React 360](https://facebook.github.io/react-360/) - Build VR websites and interactive 360 experiences with React.
-* [Primrose](https://www.primrosevr.com/) - Rapidly prototype VR applications in your browser.
+* [Primrose](https://github.com/capnmidnight/Primrose/) - Rapidly prototype VR applications in your browser.
 
 ### Others
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
