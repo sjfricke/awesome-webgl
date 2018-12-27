@@ -82,9 +82,9 @@ Processing Unit (GPU).
 >
 > NOTE: [WebGL must conform to The OpenGL ES Shading Language, Version 1.00](https://www.khronos.org/registry/webgl/specs/1.0.3/#4.3)
 > 
-> [Offical Specs for GLSL Version 1.00](https://www.khronos.org/registry/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf)
+> [Official Specs for GLSL Version 1.00](https://www.khronos.org/registry/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf)
 >
-> [Offical Specs for Open ES Version 2.0.25](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_full_spec_2.0.pdf)
+> [Official Specs for Open ES Version 2.0.25](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_full_spec_2.0.pdf)
 
 * [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
@@ -98,7 +98,7 @@ Processing Unit (GPU).
 > WebGL references
 
 * [Google Project ANGLE](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
-* [Khronos Offical Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
+* [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
 * [WebGL Errata](https://www.khronos.org/webgl/wiki/Errata_to_the_WebGL_Specification) - Known bugs in graphics drivers affect the conformance suite, and consequently, portability of code.
 * [WebGL Extensions](https://www.khronos.org/registry/webgl/extensions/) - List of extensions for WebGL
@@ -135,7 +135,7 @@ Processing Unit (GPU).
 #### Firefox Specific Tools/Debugger
 
 * [Canvas Debugger](https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/) - Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) - The offical list of all of Firefox's debugger tools.
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) - The official list of all of Firefox's debugger tools.
 * [Shader Editor](https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/) - Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
 
 ### Tutorials
@@ -239,9 +239,9 @@ Processing Unit (GPU).
 > WebVR references
 
 * [Browser Support](https://webvr.rocks/) - Shows support by browser, headset, and OS.
-* [Mozilla VR](https://mixedreality.mozilla.org/) - Mozilla's offical WebVR page.
+* [Mozilla VR](https://mixedreality.mozilla.org/) - Mozilla's official WebVR page.
 * [UX of VR](https://www.uxofvr.com/) - Curated list of resources to help create good UX in WebVR.
-* [WebVR Spec](https://w3c.github.io/webvr/) - The offical W3C WebVR specs.
+* [WebVR Spec](https://w3c.github.io/webvr/) - The official W3C WebVR specs.
   * [How to read WebVR Specs](https://dassur.ma/things/reading-specs/)
 
 ## Libraries
