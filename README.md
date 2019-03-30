@@ -92,6 +92,7 @@ Processing Unit (GPU).
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 * [ShaderFrog](https://shaderfrog.com/) - WebGL Shader Editor and Composer.
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
+* [ShaderExpo](https://anuraghazra.github.io/ShaderExpo/) - Dependency free shader editor featuring inline error logs, auto completions, models and textures loading. 
 
 ### References
 
