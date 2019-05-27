@@ -113,6 +113,7 @@ Processing Unit (GPU).
 > WebGL related talks
 
 * [List of Presentations](https://www.khronos.org/webgl/wiki/Presentations) - List presented by Khronos of various WebGL related presentations.
+* [Next-Generation 3D Graphics on the Web](https://www.youtube.com/watch?v=K2JzIUIHIhc) - Talk at Google I/O 19 from Ricardo Cabello (MrDoob).
 
 ### Tools/Debugging
 
