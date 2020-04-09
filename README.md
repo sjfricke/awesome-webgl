@@ -52,8 +52,9 @@ Processing Unit (GPU).
 
 * [Codeflow](http://codeflow.org/tags/webgl.html) - Many blogs on different tricks and techniques.
 * [Real-Time Rendering](http://www.realtimerendering.com/blog/tag/webgl/) - This is the blog for the book _Real-Time Rendering_.
+* [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's offical set of best practices.
 * [WebGL Insights](http://webglinsights.blogspot.com/) - This is the blog for the book _WebGL Insights_.
-* [WebGL Month](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorials for a month.
+* [WebGL Month](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
 
 ### Books
 
