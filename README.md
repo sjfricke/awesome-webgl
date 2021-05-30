@@ -247,7 +247,8 @@ Processing Unit (GPU).
 * [Browser Support](https://webvr.rocks/) - Shows support by browser, headset, and OS.
 * [Mozilla VR](https://mixedreality.mozilla.org/) - Mozilla's official WebVR page.
 * [UX of VR](https://www.uxofvr.com/) - Curated list of resources to help create good UX in WebVR.
-* [WebVR Spec](https://w3c.github.io/webvr/) - The official W3C WebVR specs.
+* [WebXR Device API](https://immersive-web.github.io/webxr/) - The W3C draft API for WebXR.
+* [WebVR Spec](https://w3c.github.io/webvr/) - The official W3C WebVR spec (legacy).
   * [How to read WebVR Specs](https://dassur.ma/things/reading-specs/)
 
 ## Libraries
