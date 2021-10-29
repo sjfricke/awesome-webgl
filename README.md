@@ -318,6 +318,7 @@ Processing Unit (GPU).
 * [Turbulenz](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 * [Verge3D](https://www.soft8soft.com/verge3d/) - an artist-friendly toolkit for creating 3D web experiences.
 * [Whitestorm.js](https://whs.io/) - Framework for developing 3D web apps with physics.
+* [p5.js](https://p5js.org/) - An interpretation of Processing for today’s web.
 
 ## Community
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/webgl)
