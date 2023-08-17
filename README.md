@@ -57,6 +57,7 @@ Processing Unit (GPU).
 * [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's offical set of best practices.
 * [WebGL Insights](http://webglinsights.blogspot.com/) - This is the blog for the book _WebGL Insights_.
 * [WebGL Month](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
+* [WebGL Image Processing](https://maximmcnair.com/webgl-image-processing) - Covers a range of _Image Processing_ algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.
 
 ### Books
 
