@@ -4,6 +4,7 @@
 
 This is a curated list of awesome WebGL libraries, resources and much more.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for WebGL rendering workflow orchestration, automated 3D graphics pipeline management, and multi-agent coordination. MIT licensed.
 ## What is WebGL
 
 WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D computer graphics and 2D graphics within
