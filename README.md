@@ -160,6 +160,7 @@ Processing Unit (GPU).
 * [WebGL Academy](http://www.webglacademy.com/) - Simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 * [WebGL Fundamentals](https://webglfundamentals.org/) - Series of online tutorials with code samples and live demonstrations.
 * [WebGL Workshop](http://webgl-workshop.com/) - Interactive workshop to get you up and running with WebGL.
+* [A tutorial on infinite canvas with WebGL](https://infinitecanvas.cc) - A hands-on tutorial for building a GPU-accelerated infinite canvas in the browser, with first-class WebGL support (and WebGPU) via a unified graphics API—covering ECS, SDF-based 2D primitives, GPU text, and tile-based rendering, by [@xiaoiver](https://github.com/xiaoiver).
 
 ### Videos
 
