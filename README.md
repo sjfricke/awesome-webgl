@@ -270,6 +270,7 @@ Processing Unit (GPU).
 * [GammaCV](https://gammacv.com) - WebGL accelerated Computer Vision library for browser.
 
 #### Particles
+* [NixieFX](https://github.com/azakhary/nixie-fx) - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
 * [Phenomenon](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
 
 ### Maps and Visualizations
