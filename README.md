@@ -294,6 +294,7 @@ Processing Unit (GPU).
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ### WebGL 2
+* [dither-flow](https://github.com/caleblemos/dither-flow) - Cursor-stirred 1-bit dithered flow field, WebGL 2 only, zero dependencies.
 * [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
 ### WebVR
