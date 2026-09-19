@@ -317,6 +317,7 @@ Processing Unit (GPU).
 * [Pocket.gl](https://github.com/gportelli/pocket.gl) - Fully customizable webgl shader sandbox to embed in your pages.
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
+* [SceneView](https://github.com/sceneview/sceneview) - WebGL2 and WebXR library built on Filament.js, sharing its API with the Android and Apple SDKs.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
 * [Turbulenz](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 * [Verge3D](https://www.soft8soft.com/verge3d/) - an artist-friendly toolkit for creating 3D web experiences.
