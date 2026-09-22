@@ -278,6 +278,7 @@ Processing Unit (GPU).
 * [Luma.gl](https://luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
 * [MapMetrics GL](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
 * [xeokit](https://xeokit.io/) - Web Graphics SDK for AEC/BIM applications with 3D-tiles, real-world coordinates and double precision.
+* [WorldSeed](https://github.com/yz4git/next-gen) - Turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, GLB, road graphs, spawn points, and versioned JSON Schema.
 
 ### Math
 * [glMatrix](http://glmatrix.net/) - Javascript matrix and vector library for high performance WebGL apps.
