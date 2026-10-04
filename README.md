@@ -124,6 +124,7 @@ Processing Unit (GPU).
 
 > Tools for development and debugging WebGL
 
+* [IA Code Studio](https://ia-codestudio.com) - In-browser AI-powered WebGL and Three.js creative studio for prompt-to-scene generation, vector-to-3D extrusion, and interactive standalone applications.
 * [Khronos Dev Tools](https://github.com/KhronosGroup/WebGLDeveloperTools) - Useful WebGL developer tools, intended to be used as an ES6 module.
 * [Spector.js](https://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 * [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - Tool inspired by gDEBugger and PIX with the goal of making the development of advanced WebGL applications easier.
