@@ -271,6 +271,7 @@ Processing Unit (GPU).
 
 #### Computer Vision
 * [GammaCV](https://gammacv.com) - WebGL accelerated Computer Vision library for browser.
+* [Speedy Vision](https://github.com/alemart/speedy-vision) - GPU-accelerated Computer Vision library for JavaScript.
 
 #### Particles
 * [Phenomenon](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
