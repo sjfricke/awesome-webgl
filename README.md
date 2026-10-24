@@ -309,6 +309,7 @@ Processing Unit (GPU).
 ### WebGL 2
 * [dither-flow](https://github.com/caleblemos/dither-flow) - Cursor-stirred 1-bit dithered flow field, WebGL 2 only, zero dependencies.
 * [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
+* [textmode.js](https://github.com/humanbydefinition/textmode.js) - Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.
 
 ### WebVR
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
