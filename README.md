@@ -274,6 +274,7 @@ Processing Unit (GPU).
 * [Speedy Vision](https://github.com/alemart/speedy-vision) - GPU-accelerated Computer Vision library for JavaScript.
 
 #### Particles
+* [NixieFX](https://github.com/azakhary/nixie-fx) - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
 * [Phenomenon](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
 
 ### Maps and Visualizations
