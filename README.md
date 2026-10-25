@@ -325,6 +325,7 @@ Processing Unit (GPU).
 ### Others
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 * [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
+* [claude-motion](https://github.com/TheOnlyFusionCube/claude-motion) - Direct and render 2D/3D motion films, UI walkthroughs, and physics simulations with deterministic 60 FPS video export.
 * [ClayGL](http://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
 * [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
