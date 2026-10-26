@@ -331,6 +331,7 @@ Processing Unit (GPU).
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
 * [img2threejs](https://github.com/hoainho/img2threejs) - Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.
 * [Lightgl.js](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype.
+* [Novaframe Engine](https://github.com/novaframe-hq/novaframe-engine) - Open-source desktop live wallpaper runtime for interactive WebGL and Three.js shaders.
 * [OSG.js](https://cedricpinson.github.io/osgjs-website/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 * [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
