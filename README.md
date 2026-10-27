@@ -369,6 +369,7 @@ Processing Unit (GPU).
 * [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
 * [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+* [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
 * [glTF](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 
