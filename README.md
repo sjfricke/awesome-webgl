@@ -99,6 +99,7 @@ Processing Unit (GPU).
 * [ShaderFrog](https://shaderfrog.com/) - WebGL Shader Editor and Composer.
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
 * [ShaderExpo](https://anuraghazra.github.io/ShaderExpo/) - Dependency free shader editor featuring inline error logs, auto completions, models and textures loading. 
+* [HorizonX Shaders](https://horizonx.so/shaders) - Animated WebGL shader backgrounds (flowing gradients, glass, noise, dots, waves) that you tune live in the browser and export as code. Subscription product.
 
 ### References
 
