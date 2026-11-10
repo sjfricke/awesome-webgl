@@ -278,6 +278,7 @@ Processing Unit (GPU).
 * [Speedy Vision](https://github.com/alemart/speedy-vision) - GPU-accelerated Computer Vision library for JavaScript.
 
 #### Particles
+* [Mnemosyne Avatar](https://github.com/Mnemosyne-OS/mnemosyne-avatar) - Talking face made of particles on Three.js, with a gaze that follows the pointer, blinks, expressions and a mouth driven by any voice.
 * [NixieFX](https://github.com/azakhary/nixie-fx) - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
 * [Phenomenon](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
 
