@@ -330,6 +330,7 @@ Processing Unit (GPU).
 * [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 * [ClayGL](http://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
 * [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
+* [Effect Atlas](https://effectatlas.com) - Free library of 50+ web motion effects, including WebGL ones, in plain HTML/CSS/JS with AI-readable notes.
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
 * [img2threejs](https://github.com/hoainho/img2threejs) - Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.
 * [Lightgl.js](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype.
