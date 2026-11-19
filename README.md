@@ -95,6 +95,7 @@ Processing Unit (GPU).
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
 * [ShaderExpo](https://anuraghazra.dev/ShaderExpo/) - Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.
 * [WebGL Playground](http://jessevdk.github.io/webgl-play/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
+* [ImWeb](https://imweb.image-ine.org/) - Real-time video synthesis instrument with a live GLSL editor; your shader becomes a video source you can mix and play from MIDI or OSC.
 
 ### References
 
