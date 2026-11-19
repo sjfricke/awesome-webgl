@@ -128,6 +128,7 @@ Processing Unit (GPU).
 * [WebGL Support Stats](https://webglstats.com/) - Interactive dashboard showing the support for WebGL features in different browsers and devices.
 * [WebGL Texture Tester](http://toji.github.io/texture-tester/) - Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
 * [Web Tracing Framework](http://google.github.io/tracing-framework/index.html) - Set of libraries, tools, and visualizers for the tracing and investigation of complex web applications.
+* [WebGL Animation Skills](https://github.com/iart-ai/webgl-animation-skills) - Open-source AI coding agent skills for writing Three.js scenes, GLSL shaders, and particle systems.
 
 #### Chrome Specific Tools/Debugger
 
