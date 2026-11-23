@@ -296,6 +296,7 @@ Processing Unit (GPU).
 ### Particles and Effects
 * [NixieFX](https://github.com/azakhary/nixie-fx) - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
 * [Phenomenon](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
+* [Sula Designer](https://sula.ink/designer) - Browser editor for animated WebGL shader backgrounds with snippet export for Webflow, Framer, React, Vue, Svelte and HTML.
 * [textmode.js](https://github.com/humanbydefinition/textmode.js) - Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.
 * [Vysmo Transitions](https://github.com/vysmodev/vysmo) - Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, ~5 KB gzipped.
 
