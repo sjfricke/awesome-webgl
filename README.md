@@ -156,6 +156,7 @@ Processing Unit (GPU).
 * [WebGL Month](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
 * [WebGL Workshop](https://webgl-workshop.com/) - Interactive workshop to get you up and running with WebGL.
 * [A tutorial on infinite canvas with WebGL](https://infinitecanvas.cc) - A hands-on tutorial for building a GPU-accelerated infinite canvas in the browser, with first-class WebGL support (and WebGPU) via a unified graphics API—covering ECS, SDF-based 2D primitives, GPU text, and tile-based rendering, by [@xiaoiver](https://github.com/xiaoiver).
+* [Borrowing the GPU](https://good.vibes.diy/blog/borrowing-the-gpu) - Measure what 1,400 p5.js particles cost per frame, then move the same flow field onto the GPU with a fragment shader, in a live [Vibes DIY](https://vibes.diy) app.
 
 ### Videos
 
