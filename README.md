@@ -255,6 +255,7 @@ Processing Unit (GPU).
 * [ClayGL](https://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
 * [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 * [Hilo3d](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
+* [phoria2](https://kevs3d.co.uk/phoria2/) - Small, agent friendly WebGL 2 library for charts, diagrams, dashboards and product viewers.
 * [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
